@@ -1,0 +1,1 @@
+Projetos academicos realizados nas aulas de Lógica de Programação.
